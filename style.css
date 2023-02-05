@@ -1,0 +1,15 @@
+.progress {
+  margin: 1rem 0;
+  display: flex;
+  height: 1rem;
+  background: #e9ecef;
+}
+
+.progress-bar {
+  background: blue;
+  width: 0;
+}
+
+.w-100 {
+  width: 100%;
+}
